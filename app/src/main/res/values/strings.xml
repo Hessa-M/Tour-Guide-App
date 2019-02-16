@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="general">General</string>
+    <string name="historical_site">Historical Site</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="event">Event</string>
+    <string name="coffee_shops">Coffee Shops</string>
+    <string name="riyadh">~ Riyadh ~</string>
+    <string name="details">Riyadh is the capital and most populous city of Saudi Arabia. It is also the capital of Riyadh Province and belongs to the historical regions of Najd and Al-Yamama. It is situated in the centre of the Arabian Peninsula on a large plateau and home to more than six million people.</string>
+</resources>
